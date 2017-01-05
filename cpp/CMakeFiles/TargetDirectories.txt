@@ -1,0 +1,4 @@
+/home/jiyao/nudo/FaceDet/cpp/CMakeFiles/DisplayImage.dir
+/home/jiyao/nudo/FaceDet/cpp/CMakeFiles/detectFace.dir
+/home/jiyao/nudo/FaceDet/cpp/CMakeFiles/detectFaceFlip.dir
+/home/jiyao/nudo/FaceDet/cpp/dlib_build/CMakeFiles/dlib.dir
